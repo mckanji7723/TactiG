@@ -1,0 +1,7 @@
+time_sec,formation_team_a,formation_conf_team_a,phase_team_a,width_team_a,depth_team_a,compactness_team_a,avg_spacing_team_a,graph_density_team_a,formation_team_b,formation_conf_team_b,phase_team_b,width_team_b,depth_team_b,compactness_team_b,avg_spacing_team_b,graph_density_team_b
+4.96,4-3-3,0.733,Unknown,72.58,88.9,0.134,0.54,0.007,4-3-3,0.733,Unknown,69.36,98.34,0.128,0.48,0.006
+9.92,4-3-3,0.867,Unknown,57.04,90.62,0.162,0.43,0.009,4-3-3,0.867,Unknown,57.18,85.01,0.171,0.53,0.009
+14.88,3-5-2,1.0,Unknown,60.08,87.2,0.16,0.72,0.008,4-3-3,0.867,Unknown,62.12,96.76,0.143,0.84,0.005
+19.84,3-5-2,1.0,Unknown,57.78,97.74,0.15,0.6,0.005,4-3-3,1.0,Unknown,61.31,91.63,0.151,0.83,0.006
+24.8,4-3-3,0.867,Unknown,62.55,98.24,0.14,0.42,0.006,4-3-3,0.867,Unknown,63.28,84.46,0.158,0.51,0.007
+29.76,3-5-2,0.867,Unknown,46.96,95.87,0.182,0.7,0.007,4-3-3,1.0,Unknown,49.65,96.29,0.173,0.73,0.006

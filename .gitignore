@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Large/raw datasets
+data/SoccerNet/
+*.zip
+
+# Optional generated outputs
+output_old/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+output/*.mp4
+input/*.mp4

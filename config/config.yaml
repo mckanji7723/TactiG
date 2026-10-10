@@ -1,0 +1,29 @@
+model:
+  weights: "yolo11n.pt"
+  confidence: 0.25
+  iou: 0.50
+  classes:
+    person: 0
+    ball: 32
+
+video:
+  analysis_fps: 10
+  tactical_window_seconds: 5
+
+team:
+  max_samples: 3000
+  min_crop_height: 24
+  min_crop_width: 10
+
+graph:
+  k_neighbors: 2
+
+formation:
+  supported:
+    - "4-3-3"
+    - "4-4-2"
+    - "4-2-3-1"
+    - "3-5-2"
+
+phase:
+  transition_seconds: 2.0

@@ -1,0 +1,7 @@
+Place your 30-60 second football clip in this folder and rename it:
+
+match_clip.mp4
+
+Then run:
+
+python main.py --video input/match_clip.mp4
